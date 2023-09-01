@@ -1,0 +1,6 @@
+D:\Digvijay\C#\asin8\asin8\bin\Debug\asin8.exe.config
+D:\Digvijay\C#\asin8\asin8\bin\Debug\asin8.exe
+D:\Digvijay\C#\asin8\asin8\bin\Debug\asin8.pdb
+D:\Digvijay\C#\asin8\asin8\obj\Debug\asin8.exe
+D:\Digvijay\C#\asin8\asin8\obj\Debug\asin8.pdb
+D:\Digvijay\C#\asin8\asin8\obj\Debug\asin8.csprojResolveAssemblyReference.cache

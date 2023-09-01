@@ -1,0 +1,6 @@
+D:\Digvijay\C#\asin9\asin9\bin\Debug\asin9.exe.config
+D:\Digvijay\C#\asin9\asin9\obj\Debug\asin9.csprojResolveAssemblyReference.cache
+D:\Digvijay\C#\asin9\asin9\bin\Debug\asin9.exe
+D:\Digvijay\C#\asin9\asin9\bin\Debug\asin9.pdb
+D:\Digvijay\C#\asin9\asin9\obj\Debug\asin9.exe
+D:\Digvijay\C#\asin9\asin9\obj\Debug\asin9.pdb

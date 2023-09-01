@@ -1,0 +1,5 @@
+D:\Digvijay\C#\asin7\asin7\bin\Debug\asin7.exe.config
+D:\Digvijay\C#\asin7\asin7\bin\Debug\asin7.exe
+D:\Digvijay\C#\asin7\asin7\bin\Debug\asin7.pdb
+D:\Digvijay\C#\asin7\asin7\obj\Debug\asin7.exe
+D:\Digvijay\C#\asin7\asin7\obj\Debug\asin7.pdb
